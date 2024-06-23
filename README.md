@@ -1,5 +1,4 @@
 # Coding
 Coding materials 
-<by>
-Code  
+<by> Code  
 Programming Languages 
